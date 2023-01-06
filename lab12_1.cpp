@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
-    
+  /*
 string grade[] = {"A", "B+", "B", "C+", "C", "D+", "D", "F", "W" };
 srand(time(0));
 int p = rand()%9;
@@ -19,9 +19,9 @@ while(x != 3){
    cout << "You will get " << grade[p] << " in this 261102.";
 
 }
+*/
 
-
-/*int y;
+int y;
 
 cout << "Press Enter 3 times to reveal your future.";
 while(y != 3){
@@ -41,7 +41,7 @@ else if( x == 7) cout <<  "You will get F in this 261102.";
 else if( x == 8) cout <<  "You will get W in this 261102.";
 
 return 0;
-}*/
+}
 
 
 
